@@ -51,19 +51,6 @@ A Machine Learning-based project to predict Supply Chain Emission Factors using 
 7. **Evaluation:** Compared models using **RMSE** and **R² Score**.
 8. **Model Saving:** Saved best model and scaler using `joblib`.
 
----
-
-## 📊 Screenshots
-
-### 1. Data Analysis & Visualization
-*(Insert charts from your notebook: feature distributions, correlation matrices, etc.)*
-
-### 2. Before vs After Hyperparameter Tuning  
-📎 `before_after_tuning.png` (comparison bar chart of RMSE and R² Score)
-
-
----
-
 ## ✅ Results
 
 - Final tuned model outperformed baseline models in both RMSE and R² metrics.
